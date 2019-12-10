@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookId>2</BookId>
+    <Title>The Lady of the river</Title>
+    <PublisherId>1</PublisherId>
+    <Year>2010</Year>
+    <Price>54</Price>
+  </Book>
+  <Book>
+    <BookId>48</BookId>
+    <Title>The Lady of the River</Title>
+    <PublisherId>1</PublisherId>
+    <Year>2010</Year>
+    <Price>54</Price>
+  </Book>
+</ArrayOfBook>
